@@ -1,0 +1,33 @@
+.car-details-wrapper{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    height: 100%;
+}
+
+.back-btn{
+    padding: 6px;
+    background: cadetblue;
+    color: white;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    transition: all 0.3s;
+    border-radius: 15px;
+    cursor:pointer;
+    text-decoration: none;
+}
+.back-btn:hover{
+    color: black;
+    background: #cccccc;
+}
+.car-details-list{
+    list-style: none;
+}
+.car-details-list-item{
+    margin-top: 20px;
+    color: #1e1e29;
+    font-weight: bold;
+    font-size: 16px;
+}
