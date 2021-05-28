@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c585cd-0eef-427e-980b-ffee1794fc44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/pages/home-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/car-list-item/carListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car-list-item/carListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/carStore-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/carStore-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../work/cleverstaff" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -61,7 +54,12 @@
       <workItem from="1607020940946" duration="4962000" />
       <workItem from="1607068275972" duration="1067000" />
       <workItem from="1614366414394" duration="19628000" />
-      <workItem from="1614421970594" duration="9718000" />
+      <workItem from="1614421970594" duration="12002000" />
+      <workItem from="1614586324736" duration="53000" />
+      <workItem from="1614589797945" duration="4601000" />
+      <workItem from="1614625374340" duration="1200000" />
+      <workItem from="1616778903563" duration="1196000" />
+      <workItem from="1616846206413" duration="3357000" />
     </task>
     <servers />
   </component>

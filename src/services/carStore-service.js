@@ -1,5 +1,5 @@
 class CarStoreService {
-     static getCars() {
+    static getCars() {
         return [
             {model:'BMW X6',price:'100 000 $',imageLink:'https://www.free-wallpapers.su/data/media/8251/big/car25599.jpg',carId:1},
             {model:'AUDI RS6',price:'80 000 $',imageLink:'https://www.a777aa77.ru/audi-2/2020-audi-rs6-avant.jpg',carId:2},

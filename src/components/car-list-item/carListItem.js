@@ -12,9 +12,7 @@ const CarListItem = ({car}) => {
                     <span className='car-name'>Model: {model}</span>
                     <span className='car-name'>Price: {price}</span>
                 </div>
-                <Link to={{
-                    pathname: '/car/'+carId,
-                }} className='show-more-details'>Show more details</Link>
+                <Link to={'/car/'+ carId} className='show-more-details'>Show more details</Link>
             </div>
         </li>
     )
